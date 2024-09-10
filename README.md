@@ -1,8 +1,8 @@
-# Chord library api
+# fretboard-knowledge-api
 
 A node.js server for a json chord-library
 
-# Developer notes
+## Developer notes
 
 Run `npm install` then
 
