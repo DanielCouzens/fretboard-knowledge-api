@@ -1,0 +1,9 @@
+{
+    "chord": "D major",
+    "inversions": [],
+    "construction": {
+      "scale": "D major",
+      "intervals": ["R", "3", "5"],
+      "notes": ["D", "A", "F#"]
+    }
+}
