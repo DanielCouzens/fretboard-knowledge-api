@@ -1,0 +1,914 @@
+{
+  "E2": [
+    {
+      "fret": 0,
+      "frequency": "82.41",
+      "note": "E0",
+      "alt_note": "Fb0"
+    },
+    {
+      "fret": 1,
+      "frequency": "87.31",
+      "note": "F0",
+      "alt_note": null
+    },
+    {
+      "fret": 2,
+      "frequency": "92.50",
+      "note": "F#0",
+      "alt_note": "Gb0"
+    },
+    {
+      "fret": 3,
+      "frequency": "98.00",
+      "note": "G0",
+      "alt_note": null
+    },
+    {
+      "fret": 4,
+      "frequency": "103.83",
+      "note": "G#0",
+      "alt_note": "Ab0"
+    },
+    {
+      "fret": 5,
+      "frequency": "110.00",
+      "note": "A0",
+      "alt_note": null
+    },
+    {
+      "fret": 6,
+      "frequency": "116.55",
+      "note": "A#0",
+      "alt_note": "Bb0"
+    },
+    {
+      "fret": 7,
+      "frequency": "123.48",
+      "note": "B0",
+      "alt_note": "Cb0"
+    },
+    {
+      "fret": 8,
+      "frequency": "130.82",
+      "note": "C1",
+      "alt_note": "B#1"
+    },
+    {
+      "fret": 9,
+      "frequency": "138.60",
+      "note": "C#1",
+      "alt_note": "Db1"
+    },
+    {
+      "fret": 10,
+      "frequency": "146.84",
+      "note": "D1",
+      "alt_note": null
+    },
+    {
+      "fret": 11,
+      "frequency": "155.57",
+      "note": "D#1",
+      "alt_note": "Eb1"
+    },
+    {
+      "fret": 12,
+      "frequency": "164.82",
+      "note": "E1",
+      "alt_note": "Fb1"
+    },
+    {
+      "fret": 13,
+      "frequency": "174.62",
+      "note": "F1",
+      "alt_note": null
+    },
+    {
+      "fret": 14,
+      "frequency": "185.00",
+      "note": "F#1",
+      "alt_note": "Gb1"
+    },
+    {
+      "fret": 15,
+      "frequency": "196.01",
+      "note": "G1",
+      "alt_note": null
+    },
+    {
+      "fret": 16,
+      "frequency": "207.66",
+      "note": "G#1",
+      "alt_note": "Ab1"
+    },
+    {
+      "fret": 17,
+      "frequency": "220.01",
+      "note": "A1",
+      "alt_note": null
+    },
+    {
+      "fret": 18,
+      "frequency": "233.09",
+      "note": "A#1",
+      "alt_note": "Bb1"
+    },
+    {
+      "fret": 19,
+      "frequency": "246.95",
+      "note": "B1",
+      "alt_note": "Cb1"
+    },
+    {
+      "fret": 20,
+      "frequency": "261.64",
+      "note": "C2",
+      "alt_note": "B#2"
+    },
+    {
+      "fret": 21,
+      "frequency": "277.19",
+      "note": "C#2",
+      "alt_note": "Db2"
+    },
+    {
+      "fret": 22,
+      "frequency": "293.68",
+      "note": "D2",
+      "alt_note": null
+    },
+    {
+      "fret": 23,
+      "frequency": "311.14",
+      "note": "D#2",
+      "alt_note": "Eb2"
+    },
+    {
+      "fret": 24,
+      "frequency": "329.64",
+      "note": "E2",
+      "alt_note": "Fb2"
+    }
+  ],
+  "A2": [
+    {
+      "fret": 0,
+      "frequency": "110.00",
+      "note": "A0",
+      "alt_note": null
+    },
+    {
+      "fret": 1,
+      "frequency": "116.54",
+      "note": "A#0",
+      "alt_note": "Bb0"
+    },
+    {
+      "fret": 2,
+      "frequency": "123.47",
+      "note": "B0",
+      "alt_note": "Cb0"
+    },
+    {
+      "fret": 3,
+      "frequency": "130.81",
+      "note": "C1",
+      "alt_note": "B#1"
+    },
+    {
+      "fret": 4,
+      "frequency": "138.59",
+      "note": "C#1",
+      "alt_note": "Db1"
+    },
+    {
+      "fret": 5,
+      "frequency": "146.83",
+      "note": "D1",
+      "alt_note": null
+    },
+    {
+      "fret": 6,
+      "frequency": "155.56",
+      "note": "D#1",
+      "alt_note": "Eb1"
+    },
+    {
+      "fret": 7,
+      "frequency": "164.81",
+      "note": "E1",
+      "alt_note": "Fb1"
+    },
+    {
+      "fret": 8,
+      "frequency": "174.61",
+      "note": "F1",
+      "alt_note": null
+    },
+    {
+      "fret": 9,
+      "frequency": "185.00",
+      "note": "F#1",
+      "alt_note": "Gb1"
+    },
+    {
+      "fret": 10,
+      "frequency": "196.00",
+      "note": "G1",
+      "alt_note": null
+    },
+    {
+      "fret": 11,
+      "frequency": "207.65",
+      "note": "G#1",
+      "alt_note": "Ab1"
+    },
+    {
+      "fret": 12,
+      "frequency": "220.00",
+      "note": "A1",
+      "alt_note": null
+    },
+    {
+      "fret": 13,
+      "frequency": "233.08",
+      "note": "A#1",
+      "alt_note": "Bb1"
+    },
+    {
+      "fret": 14,
+      "frequency": "246.94",
+      "note": "B1",
+      "alt_note": "Cb1"
+    },
+    {
+      "fret": 15,
+      "frequency": "261.63",
+      "note": "C2",
+      "alt_note": "B#2"
+    },
+    {
+      "fret": 16,
+      "frequency": "277.18",
+      "note": "C#2",
+      "alt_note": "Db2"
+    },
+    {
+      "fret": 17,
+      "frequency": "293.66",
+      "note": "D2",
+      "alt_note": null
+    },
+    {
+      "fret": 18,
+      "frequency": "311.13",
+      "note": "D#2",
+      "alt_note": "Eb2"
+    },
+    {
+      "fret": 19,
+      "frequency": "329.63",
+      "note": "E2",
+      "alt_note": "Fb2"
+    },
+    {
+      "fret": 20,
+      "frequency": "349.23",
+      "note": "F2",
+      "alt_note": null
+    },
+    {
+      "fret": 21,
+      "frequency": "369.99",
+      "note": "F#2",
+      "alt_note": "Gb2"
+    },
+    {
+      "fret": 22,
+      "frequency": "392.00",
+      "note": "G2",
+      "alt_note": null
+    },
+    {
+      "fret": 23,
+      "frequency": "415.30",
+      "note": "G#2",
+      "alt_note": "Ab2"
+    },
+    {
+      "fret": 24,
+      "frequency": "440.00",
+      "note": "A2",
+      "alt_note": null
+    }
+  ],
+  "D3": [
+    {
+      "fret": 0,
+      "frequency": "146.83",
+      "note": "D0",
+      "alt_note": null
+    },
+    {
+      "fret": 1,
+      "frequency": "155.56",
+      "note": "D#0",
+      "alt_note": "Eb0"
+    },
+    {
+      "fret": 2,
+      "frequency": "164.81",
+      "note": "E0",
+      "alt_note": "Fb0"
+    },
+    {
+      "fret": 3,
+      "frequency": "174.61",
+      "note": "F0",
+      "alt_note": null
+    },
+    {
+      "fret": 4,
+      "frequency": "184.99",
+      "note": "F#0",
+      "alt_note": "Gb0"
+    },
+    {
+      "fret": 5,
+      "frequency": "195.99",
+      "note": "G0",
+      "alt_note": null
+    },
+    {
+      "fret": 6,
+      "frequency": "207.65",
+      "note": "G#0",
+      "alt_note": "Ab0"
+    },
+    {
+      "fret": 7,
+      "frequency": "220.00",
+      "note": "A0",
+      "alt_note": null
+    },
+    {
+      "fret": 8,
+      "frequency": "233.08",
+      "note": "A#0",
+      "alt_note": "Bb0"
+    },
+    {
+      "fret": 9,
+      "frequency": "246.94",
+      "note": "B0",
+      "alt_note": "Cb0"
+    },
+    {
+      "fret": 10,
+      "frequency": "261.62",
+      "note": "C1",
+      "alt_note": "B#1"
+    },
+    {
+      "fret": 11,
+      "frequency": "277.18",
+      "note": "C#1",
+      "alt_note": "Db1"
+    },
+    {
+      "fret": 12,
+      "frequency": "293.66",
+      "note": "D1",
+      "alt_note": null
+    },
+    {
+      "fret": 13,
+      "frequency": "311.12",
+      "note": "D#1",
+      "alt_note": "Eb1"
+    },
+    {
+      "fret": 14,
+      "frequency": "329.62",
+      "note": "E1",
+      "alt_note": "Fb1"
+    },
+    {
+      "fret": 15,
+      "frequency": "349.22",
+      "note": "F1",
+      "alt_note": null
+    },
+    {
+      "fret": 16,
+      "frequency": "369.99",
+      "note": "F#1",
+      "alt_note": "Gb1"
+    },
+    {
+      "fret": 17,
+      "frequency": "391.99",
+      "note": "G1",
+      "alt_note": null
+    },
+    {
+      "fret": 18,
+      "frequency": "415.30",
+      "note": "G#1",
+      "alt_note": "Ab1"
+    },
+    {
+      "fret": 19,
+      "frequency": "439.99",
+      "note": "A1",
+      "alt_note": null
+    },
+    {
+      "fret": 20,
+      "frequency": "466.16",
+      "note": "A#1",
+      "alt_note": "Bb1"
+    },
+    {
+      "fret": 21,
+      "frequency": "493.88",
+      "note": "B1",
+      "alt_note": "Cb1"
+    },
+    {
+      "fret": 22,
+      "frequency": "523.24",
+      "note": "C2",
+      "alt_note": "B#2"
+    },
+    {
+      "fret": 23,
+      "frequency": "554.36",
+      "note": "C#2",
+      "alt_note": "Db2"
+    },
+    {
+      "fret": 24,
+      "frequency": "587.32",
+      "note": "D2",
+      "alt_note": null
+    }
+  ],
+  "G3": [
+    {
+      "fret": 0,
+      "frequency": "196.00",
+      "note": "G0",
+      "alt_note": null
+    },
+    {
+      "fret": 1,
+      "frequency": "207.65",
+      "note": "G#0",
+      "alt_note": "Ab0"
+    },
+    {
+      "fret": 2,
+      "frequency": "220.00",
+      "note": "A0",
+      "alt_note": null
+    },
+    {
+      "fret": 3,
+      "frequency": "233.08",
+      "note": "A#0",
+      "alt_note": "Bb0"
+    },
+    {
+      "fret": 4,
+      "frequency": "246.94",
+      "note": "B0",
+      "alt_note": "Cb0"
+    },
+    {
+      "fret": 5,
+      "frequency": "261.63",
+      "note": "C1",
+      "alt_note": "B#1"
+    },
+    {
+      "fret": 6,
+      "frequency": "277.19",
+      "note": "C#1",
+      "alt_note": "Db1"
+    },
+    {
+      "fret": 7,
+      "frequency": "293.67",
+      "note": "D1",
+      "alt_note": null
+    },
+    {
+      "fret": 8,
+      "frequency": "311.13",
+      "note": "D#1",
+      "alt_note": "Eb1"
+    },
+    {
+      "fret": 9,
+      "frequency": "329.63",
+      "note": "E1",
+      "alt_note": "Fb1"
+    },
+    {
+      "fret": 10,
+      "frequency": "349.23",
+      "note": "F1",
+      "alt_note": null
+    },
+    {
+      "fret": 11,
+      "frequency": "370.00",
+      "note": "F#1",
+      "alt_note": "Gb1"
+    },
+    {
+      "fret": 12,
+      "frequency": "392.00",
+      "note": "G1",
+      "alt_note": null
+    },
+    {
+      "fret": 13,
+      "frequency": "415.31",
+      "note": "G#1",
+      "alt_note": "Ab1"
+    },
+    {
+      "fret": 14,
+      "frequency": "440.01",
+      "note": "A1",
+      "alt_note": null
+    },
+    {
+      "fret": 15,
+      "frequency": "466.17",
+      "note": "A#1",
+      "alt_note": "Bb1"
+    },
+    {
+      "fret": 16,
+      "frequency": "493.89",
+      "note": "B1",
+      "alt_note": "Cb1"
+    },
+    {
+      "fret": 17,
+      "frequency": "523.26",
+      "note": "C2",
+      "alt_note": "B#2"
+    },
+    {
+      "fret": 18,
+      "frequency": "554.37",
+      "note": "C#2",
+      "alt_note": "Db2"
+    },
+    {
+      "fret": 19,
+      "frequency": "587.34",
+      "note": "D2",
+      "alt_note": null
+    },
+    {
+      "fret": 20,
+      "frequency": "622.26",
+      "note": "D#2",
+      "alt_note": "Eb2"
+    },
+    {
+      "fret": 21,
+      "frequency": "659.26",
+      "note": "E2",
+      "alt_note": "Fb2"
+    },
+    {
+      "fret": 22,
+      "frequency": "698.46",
+      "note": "F2",
+      "alt_note": null
+    },
+    {
+      "fret": 23,
+      "frequency": "740.00",
+      "note": "F#2",
+      "alt_note": "Gb2"
+    },
+    {
+      "fret": 24,
+      "frequency": "784.00",
+      "note": "G2",
+      "alt_note": null
+    }
+  ],
+  "B3": [
+    {
+      "fret": 0,
+      "frequency": "246.94",
+      "note": "B0",
+      "alt_note": "Cb0"
+    },
+    {
+      "fret": 1,
+      "frequency": "261.62",
+      "note": "C1",
+      "alt_note": "B#1"
+    },
+    {
+      "fret": 2,
+      "frequency": "277.18",
+      "note": "C#1",
+      "alt_note": "Db1"
+    },
+    {
+      "fret": 3,
+      "frequency": "293.66",
+      "note": "D1",
+      "alt_note": null
+    },
+    {
+      "fret": 4,
+      "frequency": "311.12",
+      "note": "D#1",
+      "alt_note": "Eb1"
+    },
+    {
+      "fret": 5,
+      "frequency": "329.63",
+      "note": "E1",
+      "alt_note": "Fb1"
+    },
+    {
+      "fret": 6,
+      "frequency": "349.23",
+      "note": "F1",
+      "alt_note": null
+    },
+    {
+      "fret": 7,
+      "frequency": "369.99",
+      "note": "F#1",
+      "alt_note": "Gb1"
+    },
+    {
+      "fret": 8,
+      "frequency": "391.99",
+      "note": "G1",
+      "alt_note": null
+    },
+    {
+      "fret": 9,
+      "frequency": "415.30",
+      "note": "G#1",
+      "alt_note": "Ab1"
+    },
+    {
+      "fret": 10,
+      "frequency": "440.00",
+      "note": "A1",
+      "alt_note": null
+    },
+    {
+      "fret": 11,
+      "frequency": "466.16",
+      "note": "A#1",
+      "alt_note": "Bb1"
+    },
+    {
+      "fret": 12,
+      "frequency": "493.88",
+      "note": "B1",
+      "alt_note": "Cb1"
+    },
+    {
+      "fret": 13,
+      "frequency": "523.25",
+      "note": "C2",
+      "alt_note": "B#2"
+    },
+    {
+      "fret": 14,
+      "frequency": "554.36",
+      "note": "C#2",
+      "alt_note": "Db2"
+    },
+    {
+      "fret": 15,
+      "frequency": "587.33",
+      "note": "D2",
+      "alt_note": null
+    },
+    {
+      "fret": 16,
+      "frequency": "622.25",
+      "note": "D#2",
+      "alt_note": "Eb2"
+    },
+    {
+      "fret": 17,
+      "frequency": "659.25",
+      "note": "E2",
+      "alt_note": "Fb2"
+    },
+    {
+      "fret": 18,
+      "frequency": "698.45",
+      "note": "F2",
+      "alt_note": null
+    },
+    {
+      "fret": 19,
+      "frequency": "739.98",
+      "note": "F#2",
+      "alt_note": "Gb2"
+    },
+    {
+      "fret": 20,
+      "frequency": "783.99",
+      "note": "G2",
+      "alt_note": null
+    },
+    {
+      "fret": 21,
+      "frequency": "830.60",
+      "note": "G#2",
+      "alt_note": "Ab2"
+    },
+    {
+      "fret": 22,
+      "frequency": "879.99",
+      "note": "A2",
+      "alt_note": null
+    },
+    {
+      "fret": 23,
+      "frequency": "932.32",
+      "note": "A#2",
+      "alt_note": "Bb2"
+    },
+    {
+      "fret": 24,
+      "frequency": "987.76",
+      "note": "B2",
+      "alt_note": "Cb2"
+    }
+  ],
+  "E4": [
+    {
+      "fret": 0,
+      "frequency": "329.63",
+      "note": "E0",
+      "alt_note": "Fb0"
+    },
+    {
+      "fret": 1,
+      "frequency": "349.23",
+      "note": "F0",
+      "alt_note": null
+    },
+    {
+      "fret": 2,
+      "frequency": "370.00",
+      "note": "F#0",
+      "alt_note": "Gb0"
+    },
+    {
+      "fret": 3,
+      "frequency": "392.00",
+      "note": "G0",
+      "alt_note": null
+    },
+    {
+      "fret": 4,
+      "frequency": "415.31",
+      "note": "G#0",
+      "alt_note": "Ab0"
+    },
+    {
+      "fret": 5,
+      "frequency": "440.00",
+      "note": "A0",
+      "alt_note": null
+    },
+    {
+      "fret": 6,
+      "frequency": "466.17",
+      "note": "A#0",
+      "alt_note": "Bb0"
+    },
+    {
+      "fret": 7,
+      "frequency": "493.89",
+      "note": "B0",
+      "alt_note": "Cb0"
+    },
+    {
+      "fret": 8,
+      "frequency": "523.26",
+      "note": "C1",
+      "alt_note": "B#1"
+    },
+    {
+      "fret": 9,
+      "frequency": "554.37",
+      "note": "C#1",
+      "alt_note": "Db1"
+    },
+    {
+      "fret": 10,
+      "frequency": "587.33",
+      "note": "D1",
+      "alt_note": null
+    },
+    {
+      "fret": 11,
+      "frequency": "622.26",
+      "note": "D#1",
+      "alt_note": "Eb1"
+    },
+    {
+      "fret": 12,
+      "frequency": "659.26",
+      "note": "E1",
+      "alt_note": "Fb1"
+    },
+    {
+      "fret": 13,
+      "frequency": "698.46",
+      "note": "F1",
+      "alt_note": null
+    },
+    {
+      "fret": 14,
+      "frequency": "739.99",
+      "note": "F#1",
+      "alt_note": "Gb1"
+    },
+    {
+      "fret": 15,
+      "frequency": "784.00",
+      "note": "G1",
+      "alt_note": null
+    },
+    {
+      "fret": 16,
+      "frequency": "830.62",
+      "note": "G#1",
+      "alt_note": "Ab1"
+    },
+    {
+      "fret": 17,
+      "frequency": "880.01",
+      "note": "A1",
+      "alt_note": null
+    },
+    {
+      "fret": 18,
+      "frequency": "932.33",
+      "note": "A#1",
+      "alt_note": "Bb1"
+    },
+    {
+      "fret": 19,
+      "frequency": "987.77",
+      "note": "B1",
+      "alt_note": "Cb1"
+    },
+    {
+      "fret": 20,
+      "frequency": "1046.51",
+      "note": "C2",
+      "alt_note": "B#2"
+    },
+    {
+      "fret": 21,
+      "frequency": "1108.74",
+      "note": "C#2",
+      "alt_note": "Db2"
+    },
+    {
+      "fret": 22,
+      "frequency": "1174.67",
+      "note": "D2",
+      "alt_note": null
+    },
+    {
+      "fret": 23,
+      "frequency": "1244.52",
+      "note": "D#2",
+      "alt_note": "Eb2"
+    },
+    {
+      "fret": 24,
+      "frequency": "1318.52",
+      "note": "E2",
+      "alt_note": "Fb2"
+    }
+  ]
+}
